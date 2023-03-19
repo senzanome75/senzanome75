@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senzanome75
 - 👀 I’m interested in Technical SEO
-- 🌱 I’m currently learning SEO, Web Data Analysis, OSINT, WEBINT, SOCMINT
+- 🌱 I’m currently learning SEO, Web Data Analysis, Headless CMS
 
 <!---
 senzanome75/senzanome75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
