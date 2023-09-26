@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senzanome75
-- 👀 I’m interested in Technical SEO
+- 👀 I’m interested in Technical SEO and in Generative AI
 - 🌱 I’m currently learning SEO, Web Data Analysis, Python, LLM
 
 <!---
